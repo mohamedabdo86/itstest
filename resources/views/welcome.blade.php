@@ -40,7 +40,7 @@
             <div class="content">
                 <div class="title">
                     
-                    This is Laravel 5
+                    This is  Laravel 5
                 
                 </div>
             </div>
